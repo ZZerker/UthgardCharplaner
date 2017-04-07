@@ -1,6 +1,6 @@
 ﻿namespace GameData
 {
-    class Styles
+    public class Style
     {
         //test
     }
