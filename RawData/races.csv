@@ -1,4 +1,5 @@
-﻿1;Avalonian;Albion;45;45;60;70;80;60;60;60;0;0;2;0;0;0;3;5;0
+﻿#race_id;Race_name;realm;STR;CON;DEX;QUI;INT;PIE;EMP;CHA;Body;Cold;Crush;Energy;Heat;Matter;Slash;Spirit;Thrust
+1;Avalonian;Albion;45;45;60;70;80;60;60;60;0;0;2;0;0;0;3;5;0
 2;Briton;Albion;60;60;60;60;60;60;60;60;0;0;2;0;0;0;3;5;0
 3;Highlander;Albion;70;70;50;50;60;60;60;60;0;5;3;0;0;0;2;0;0
 4;Saracen;Albion;50;50;80;60;60;60;60;60;0;0;0;0;5;0;2;0;3

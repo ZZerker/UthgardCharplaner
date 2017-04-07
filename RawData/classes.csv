@@ -1,4 +1,4 @@
-﻿class_ID;realm;class_name; magic;stat1;stat2;stat3;skillfactor;basehp;hpfac; races; race1;race2;race3;race4;race5; styles;style1;style2;style3;style4;style5;style6;style7; spells;spell1;spell2;spell3;
+﻿#class_ID;realm;class_name; magic;stat1;stat2;stat3;skillfactor;basehp;hpfac; races; race1;race2;race3;race4;race5; styles;style1;style2;style3;style4;style5;style6;style7; spells;spell1;spell2;spell3;
 1;alb;Infiltrator;0; dex; qui; str; 2.5;740; 3.6;3;2;13;4;;;5; 27*;1;2;22;33;;;1;4;;;
 2;alb;Armsman;0; str; con; dex; 2.0;900; 4.4;5;1;2;3;13;4;8;25;9; 1*; 2*;10;;;14;13;28;0;
 3;alb;Cabalist;int; int; dex; qui; 1.0;580; 2.8;4;1;2;13;4;;0;;;;;;;;3;18;19;20;
