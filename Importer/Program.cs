@@ -9,6 +9,16 @@ namespace Importer
     {
         private static void Main(string[] args)
         {
+            var calculation = new Calculation();
+
+            var celerityHealer = 0.31m; // Cele
+            var hastBuff = 0.2m; // Haste Buff
+            var sumQui = 210m;
+            var weaponBaseSpeed = 6.0m; // Base weaponspeed of the current weapon
+
+            Console.WriteLine("Attack Speed: " + calculation.CalculateWeaponAttackSpeed(sumQui, weaponBaseSpeed, celerityHealer, hastBuff));
+
+
             var races = ParseRaces(@"..\..\..\RawData\races.csv");
 
             Console.WriteLine("Press Key to quit.");
