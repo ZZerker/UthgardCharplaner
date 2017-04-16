@@ -26,7 +26,7 @@ namespace GameData
                 totalQuickness = 250m;
             }
 
-            return Math.Round(weaponBaseSpeed * 100m * (1m - (totalQuickness - 50m) / 500m) * (1 - (hasteBuff + attackSpeedPulse)) / 100, 2);
+            return Math.Round(weaponBaseSpeed * 100m * (1m - (totalQuickness - 50m) / 500m) * (1 - (hasteBuff + attackSpeedPulse)) / 100m, 2);
         }
     }
 }
